@@ -18,7 +18,7 @@
 <!-- Sub-badges -->
 <p>
 
-  <img src="https://img.shields.io/badge/Dio-HTTP-00AEEF?style=flat-square" height="58" />
+  <img src="https://img.shields.io/badge/Dio-HTTP-00AEEF?style=flat-square" height="60" />
 </p>
 
 
