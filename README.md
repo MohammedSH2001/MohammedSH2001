@@ -58,7 +58,7 @@
 ---
 
 ## 📫 تواصل معي
-- Email: grinmoahmmed@email.com
+- Email: grinmoahmmed@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D9%88%D8%B4-322093302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - instagram: (https://www.instagram.com/sh10mohammed?igsh=MXBrYWh2MmtqYXlvcA%3D%3D&utm_source=qr)
 
