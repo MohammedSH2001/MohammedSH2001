@@ -40,9 +40,9 @@
 
 <!-- Fallback to SimpleIcons if logo not available -->
 <p>
-<img src="https://cdn.simpleicons.org/wireshark/FF0000" height="58" alt="Wireshark" />
+<img src="https://cdn.simpleicons.org/wireshark/FF0000" height="60" alt="Wireshark" />
 
-  <img src="https://cdn.simpleicons.org/owasp/FF0000" height="58" alt="OWASP" />
+  <img src="https://cdn.simpleicons.org/owasp/FF0000" height="60" alt="OWASP" />
 </p>
 
 
