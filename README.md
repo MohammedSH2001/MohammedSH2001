@@ -32,9 +32,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Metasploit-26232f?style=for-the-badge&logo=metasploit&logoColor=white" height="58" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="58" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="60" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=white" height="58" />
+  <img src="https://img.shields.io/badge/Wireshark-2A6F97?style=for-the-badge&logo=wireshark&logoColor=white" height="60" />
 </p>
 
 
