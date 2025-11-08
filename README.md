@@ -12,7 +12,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="45" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=firebase&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/firebase-0175C2?style=for-the-badge&logo=firebase&logoColor=white" height="45" />
   &nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="45" />
 </p>
