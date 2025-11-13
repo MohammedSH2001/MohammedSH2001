@@ -1,4 +1,4 @@
-Mohammed Al-Shaawesh
+Mohammed Al-Shawish
 
 Mobile Application Developer specializing in Flutter and Dart, with  in UI/UX design using Figma.
 I build scalable, modern, and user-friendly mobile applications with clean architecture and high-quality interfaces.
